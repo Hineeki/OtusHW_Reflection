@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "OtusHW_Reflection": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OtusHW_Reflection", "OtusHW_Reflection\OtusHW_Reflection.csproj", "{F9F2EC9F-3512-4F23-9D0C-8DC8F896AAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9F2EC9F-3512-4F23-9D0C-8DC8F896AAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F2EC9F-3512-4F23-9D0C-8DC8F896AAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F2EC9F-3512-4F23-9D0C-8DC8F896AAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F2EC9F-3512-4F23-9D0C-8DC8F896AAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16907752-E687-4F4E-8C4F-F4D0BA79CC25}
+	EndGlobalSection
+EndGlobal
